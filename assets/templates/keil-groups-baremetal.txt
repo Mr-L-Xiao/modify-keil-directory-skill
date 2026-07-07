@@ -1,0 +1,9 @@
+项目名
+├─System
+├─App/User
+├─App/function
+├─Common
+├─BSP/board
+├─BSP/devices
+├─Drivers/xx32xx_Driver
+└─...

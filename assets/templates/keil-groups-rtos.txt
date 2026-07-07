@@ -1,0 +1,11 @@
+项目名
+├─System
+├─App/User
+├─App/tasks
+├─App/function
+├─Common
+├─BSP/board
+├─BSP/devices
+├─Drivers/xx32xx_Driver
+├─Middlewares/FreeRTOS
+└─...

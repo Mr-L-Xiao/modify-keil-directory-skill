@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modify Keil Directory"
+  short_description: "Reorganize single-project Keil MCU workspaces"
+  default_prompt: "Use $modify-keil-directory to standardize this single-project Keil MCU workspace and its local folder plus uVision group structure."

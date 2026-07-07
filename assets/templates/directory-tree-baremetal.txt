@@ -1,0 +1,23 @@
+App/
+  function/
+  User_Config/
+  main.c
+BSP/
+  board/
+  devices/
+Common/
+  User_System/
+  utilities/
+Docs/
+Drivers/
+  CMSIS/
+  xx32xx_Driver/
+    inc/
+    src/
+  xx32xx_System/
+Output/
+  Listings/
+  Objects/
+  Bin/
+Project/
+  Keil-MDK/
